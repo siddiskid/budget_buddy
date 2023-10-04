@@ -1,0 +1,19 @@
+{
+    "name": "Dover",
+    "monthlyBudget": 2000,
+    "transactionList": [],
+    "essentials": [
+        {
+            "date": "01/08/2023",
+            "cost": 75,
+            "name": "MSP",
+            "category": "Bills"
+        },
+        {
+            "date": "01/08/2023",
+            "cost": 35,
+            "name": "Phone bill",
+            "category": "Bills"
+        }
+    ]
+}

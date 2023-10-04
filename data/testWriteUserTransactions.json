@@ -1,0 +1,25 @@
+{
+    "name": "John",
+    "monthlyBudget": 500,
+    "transactionList": [
+        {
+            "date": "13/07/2023",
+            "cost": 20,
+            "name": "Dinner at Cactus Club",
+            "category": "Eating out"
+        },
+        {
+            "date": "14/07/2023",
+            "cost": 190,
+            "name": "Buying Electric Guitar",
+            "category": "Shopping"
+        },
+        {
+            "date": "12/07/2023",
+            "cost": 75,
+            "name": "Paying MSP",
+            "category": "Bills"
+        }
+    ],
+    "essentials": []
+}
